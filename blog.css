@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#428EE3
+	}
+h2 {
+     text-align:justify;
+}
+.STYLE1 {
+	color:#8CF341;
+	font-size:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+.STYLE2 {
+	color:#E6E620;
+	font-size:18px;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+.STYLE3 {
+	color:#493FC9;
+	font-size:18px;
+	font-family:"Lucida Console", Monaco, monospace;
+}
+.comments {
+	display: block;
+	height: auto;
+	width: 700px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size: 14px;
+	line-height: 10px;
+	text-decoration: none;
+	color: #0000FF;
+	margin: 0px;
+	text-align: left;
+	border: 1px dashed #CCC;
+	padding-right: 28px;
+	padding-left: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background-color: #F3F3F3;
+}
+		
+
